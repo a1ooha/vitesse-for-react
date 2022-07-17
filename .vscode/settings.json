@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "iconify",
+    "msgid",
+    "pnpm",
+    "unocss",
+    "unplugin",
+    "Vite",
+    "vitejs",
+    "Vitesse",
+    "vitest"
+  ],
+  "prettier.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    "*.css": "postcss",
+  },
+}
